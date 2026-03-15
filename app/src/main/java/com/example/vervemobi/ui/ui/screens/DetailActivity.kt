@@ -43,3 +43,5 @@ class DetailActivity : AppCompatActivity() {
         }
     }
 }
+
+//pr request
