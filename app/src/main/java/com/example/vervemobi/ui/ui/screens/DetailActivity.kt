@@ -44,4 +44,4 @@ class DetailActivity : AppCompatActivity() {
     }
 }
 
-//pr request
+//pr request or okagain
